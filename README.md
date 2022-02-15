@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+```text
+Total: 1 hr 33 mins
+
+Bash     1 hr 25 mins    ███████████████████████░░   91.79 % 
+Groovy   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+```
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhao981&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
