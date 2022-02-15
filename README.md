@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhao981&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhao981&theme=solarized-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,8 +12,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Maintenance of Release Pipeline and CICD tracking tool improvement
+- 🌱 I’m currently learning Kotlin and Spring Boot
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
