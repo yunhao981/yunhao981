@@ -4,10 +4,13 @@ Only track coding times for my personal projects after work.
 
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 33 mins
+Total: 49 mins
 
-Bash     1 hr 25 mins    ███████████████████████░░   91.79 % 
-Groovy   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Kotlin           30 mins         ███████████████▓░░░░░░░░░   62.96 % 
+Java             5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Markdown         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+GitIgnore file   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+IDEA_MODULE      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 <!--END_SECTION:waka-->
 
