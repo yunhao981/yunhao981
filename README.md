@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Only track coding times for my personal projects after work.
+
 <!--START_SECTION:waka-->
 ```text
 Total: 1 hr 33 mins
