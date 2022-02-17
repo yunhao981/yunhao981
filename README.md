@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 49 mins
+Total: 5 hrs
 
-Kotlin           30 mins         ███████████████▓░░░░░░░░░   62.96 % 
-Java             5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Markdown         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-GitIgnore file   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-IDEA_MODULE      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Kotlin         2 hrs 52 mins   ██████████████▒░░░░░░░░░░   57.48 % 
+TypeScript     38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Markdown       26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+textmate       23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+HTTP Request   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 <!--END_SECTION:waka-->
 
