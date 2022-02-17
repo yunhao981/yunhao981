@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Only track coding times for my personal projects after work.
+- 🔭 I’m currently working on Maintenance of Product Release Pipeline and CICD tracking tool improvement
+- 🌱 I’m currently learning Vue, Kotlin and Spring Boot
 
 <!--START_SECTION:waka-->
 ```text
@@ -24,7 +25,7 @@ IDEA_MODULE      2 mins          █▒░░░░░░░░░░░░░�
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Maintenance of Release Pipeline and CICD tracking tool improvement
-- 🌱 I’m currently learning Kotlin and Spring Boot
+- 🌱 I’m currently learning Vue, Kotlin and Spring Boot
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
