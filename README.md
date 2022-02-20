@@ -5,13 +5,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 5 hrs
-
-Kotlin         2 hrs 52 mins   ██████████████▒░░░░░░░░░░   57.48 % 
-TypeScript     38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Markdown       26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-textmate       23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-HTTP Request   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Kotlin       3 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+TypeScript   3 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.90 % 
+textmate     1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Markdown     1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Java         56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 ```
 <!--END_SECTION:waka-->
 
