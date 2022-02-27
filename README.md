@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 19 February, 2022 - To: 26 February, 2022
 
-TypeScript   6 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.94 % 
-Groovy       5 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Java         4 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Markdown     3 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Vue.js       1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Groovy       6 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+TypeScript   4 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Java         3 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Markdown     3 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Vue.js       1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 ```
 <!--END_SECTION:waka-->
 
