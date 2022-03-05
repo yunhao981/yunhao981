@@ -6,10 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 February 2022 - To: 03 March 2022
+From: 25 February 2022 - To: 04 March 2022
 
-Groovy                     9 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   39.47 %
-Other                      3 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+Groovy                     8 hrs 54 mins   █████████▒░░░░░░░░░░░░░░░   36.96 %
+Markdown                   4 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+Vue.js                     3 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+Other                      3 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
 ```
 
 <!--END_SECTION:waka-->
