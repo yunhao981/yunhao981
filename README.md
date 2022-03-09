@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2022 - To: 07 March 2022
+From: 01 March 2022 - To: 08 March 2022
 
-Groovy                     7 hrs 53 mins   ███████████░░░░░░░░░░░░░░   44.46 %
-Markdown                   3 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.37 %
-Other                      2 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+Markdown       4 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   24.39 %
+Groovy         3 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.44 %
+Other          2 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
 ```
 
 <!--END_SECTION:waka-->
