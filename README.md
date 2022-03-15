@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2022 - To: 13 March 2022
+From: 07 March 2022 - To: 14 March 2022
 
-Vue.js           4 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
-Groovy           3 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-Java             3 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
-Markdown         2 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
-textmate         1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-TypeScript       58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Vue.js           4 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   24.32 %
+Java             3 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+Groovy           3 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
+Markdown         2 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Bash             2 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+textmate         1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
 ```
 
 <!--END_SECTION:waka-->
