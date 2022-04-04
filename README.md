@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2022 - To: 02 April 2022
+From: 27 March 2022 - To: 03 April 2022
 
 Groovy     7 hrs 22 mins   ██████████████████████░░░   87.61 %
 Bash       44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
