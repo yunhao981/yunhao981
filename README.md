@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2022 - To: 10 April 2022
+From: 04 April 2022 - To: 11 April 2022
 
-Groovy             2 hrs 47 mins   ████████████▒░░░░░░░░░░░░   49.79 %
-Bash               1 hr 23 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
-Other              48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Groovy             4 hrs 27 mins   ██████████████▓░░░░░░░░░░   59.04 %
+Bash               1 hr 24 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
+Other              50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
 ```
 
 <!--END_SECTION:waka-->
