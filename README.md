@@ -6,11 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2022 - To: 02 May 2022
+From: 26 April 2022 - To: 03 May 2022
 
-Bash         2 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   28.79 %
-Java         1 hr 44 mins    ██████░░░░░░░░░░░░░░░░░░░   24.24 %
-Other        1 hr 40 mins    ██████░░░░░░░░░░░░░░░░░░░   23.42 %
+Other      1 hr 36 mins    ███████░░░░░░░░░░░░░░░░░░   28.10 %
 ```
 
 <!--END_SECTION:waka-->
