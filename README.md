@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 June 2022 - To: 18 June 2022
+From: 12 June 2022 - To: 19 June 2022
 
 Groovy     5 hrs 2 mins    ██████████████▓░░░░░░░░░░   58.75 %
 C          1 hr 43 mins    █████░░░░░░░░░░░░░░░░░░░░   20.22 %
