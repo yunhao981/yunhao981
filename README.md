@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 June 2022 - To: 01 July 2022
+From: 25 June 2022 - To: 02 July 2022
 
-Groovy         4 hrs 47 mins   ███████████▓░░░░░░░░░░░░░   46.55 %
-Bash           2 hrs 46 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
-Markdown       1 hr 48 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
-Shell Script   42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Other          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Groovy         4 hrs 47 mins   ████████████▒░░░░░░░░░░░░   49.46 %
+Bash           2 hrs 46 mins   ███████░░░░░░░░░░░░░░░░░░   28.60 %
+Markdown       1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+Shell Script   42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Other          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
