@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 July 2022 - To: 08 July 2022
+From: 02 July 2022 - To: 09 July 2022
 
-Groovy           4 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
-Kotlin           4 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   24.24 %
-TypeScript       3 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
-Bash             2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Other            1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+Groovy           4 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.24 %
+Kotlin           4 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
+TypeScript       3 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Bash             2 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+Other            1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
 ```
 
 <!--END_SECTION:waka-->
