@@ -6,13 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 July 2022 - To: 14 July 2022
+From: 08 July 2022 - To: 15 July 2022
 
-Markdown         4 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   23.55 %
-Bash             3 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-TypeScript       2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
-Java             2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-Other            1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Markdown         5 hrs 54 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
+Bash             5 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.20 %
+TypeScript       2 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+Java             2 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+HTML             1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+Kotlin           1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
 ```
 
 <!--END_SECTION:waka-->
