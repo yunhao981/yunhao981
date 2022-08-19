@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 11 August 2022 - To: 18 August 2022
 
-Bash         8 hrs 9 mins    █████████████▒░░░░░░░░░░░   53.60 %
-Groovy       5 hrs 12 mins   ████████▓░░░░░░░░░░░░░░░░   34.25 %
-Markdown     1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Git Config   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Bash         6 hrs 45 mins   ███████████░░░░░░░░░░░░░░   43.34 %
+Groovy       4 hrs 59 mins   ████████░░░░░░░░░░░░░░░░░   31.92 %
+Markdown     2 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+JavaScript   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Git Config   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
