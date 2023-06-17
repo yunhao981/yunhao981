@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2023 - To: 15 June 2023
+From: 09 June 2023 - To: 16 June 2023
 
-Groovy              7 hrs 12 mins   ███████████▓░░░░░░░░░░░░░   46.33 %
-TypeScript          3 hrs 55 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
-Kotlin              1 hr 52 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-Markdown            54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-CSS                 49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Groovy              6 hrs 39 mins   ███████████▓░░░░░░░░░░░░░   46.61 %
+TypeScript          3 hrs 55 mins   ███████░░░░░░░░░░░░░░░░░░   27.51 %
+Kotlin              1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+CSS                 49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+JSON                13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
