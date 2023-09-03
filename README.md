@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2023 - To: 01 September 2023
+From: 26 August 2023 - To: 02 September 2023
 
 TypeScript       9 hrs 31 mins   █████████████████▓░░░░░░░   70.33 %
 Groovy           1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
