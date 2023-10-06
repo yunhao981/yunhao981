@@ -6,13 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2023 - To: 04 October 2023
+From: 28 September 2023 - To: 05 October 2023
 
-TypeScript     50 mins         ███████████░░░░░░░░░░░░░░   43.49 %
-Groovy         37 mins         ████████░░░░░░░░░░░░░░░░░   31.74 %
-Bash           12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-YAML           10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-Shell Script   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
