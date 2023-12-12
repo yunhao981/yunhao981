@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2023 - To: 09 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
-TypeScript   7 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.11 %
-YAML         4 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.52 %
-Bash         3 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   19.43 %
-Groovy       1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Java         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+TypeScript   7 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.27 %
+YAML         4 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.61 %
+Bash         3 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+Groovy       1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+Java         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
