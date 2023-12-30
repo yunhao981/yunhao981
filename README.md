@@ -6,13 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 22 December 2023 - To: 29 December 2023
 
-Groovy       1 hr 2 mins     ████████░░░░░░░░░░░░░░░░░   31.79 %
-Other        33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
-TypeScript   33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-Bash         27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
-JSON         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
