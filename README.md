@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
-Java         1 hr 12 mins    ████████████████░░░░░░░░░   63.40 %
-TypeScript   22 mins         █████░░░░░░░░░░░░░░░░░░░░   19.98 %
-Markdown     14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
-SQL          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Java         1 hr 16 mins    ███████▒░░░░░░░░░░░░░░░░░   28.98 %
+Bash         1 hr 11 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
+TypeScript   38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Groovy       28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+Docker       22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
 ```
 
 <!--END_SECTION:waka-->
