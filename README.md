@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2024 - To: 24 January 2024
+From: 18 January 2024 - To: 25 January 2024
 
-Bash         5 hrs 27 mins   █████████████████░░░░░░░░   68.15 %
-Groovy       2 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
-Docker       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Java         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Bash         3 hrs 52 mins   ███████████████▒░░░░░░░░░   61.50 %
+Groovy       2 hrs 3 mins    ████████▒░░░░░░░░░░░░░░░░   32.67 %
+Java         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Docker       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
