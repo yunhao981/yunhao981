@@ -6,13 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 13 February 2024
+From: 07 February 2024 - To: 14 February 2024
 
-TypeScript   2 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   39.89 %
-Bash         1 hr 56 mins    ███████▓░░░░░░░░░░░░░░░░░   30.09 %
-Groovy       1 hr 33 mins    ██████░░░░░░░░░░░░░░░░░░░   24.16 %
-Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Java         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Bash         1 hr 22 mins    ████████████████░░░░░░░░░   64.08 %
+Groovy       45 mins         █████████░░░░░░░░░░░░░░░░   35.57 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
