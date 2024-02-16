@@ -6,12 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2024 - To: 14 February 2024
+From: 08 February 2024 - To: 15 February 2024
 
-Bash         1 hr 22 mins    ████████████████░░░░░░░░░   64.08 %
-Groovy       45 mins         █████████░░░░░░░░░░░░░░░░   35.57 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Bash       43 mins         ██████████████████████▓░░   91.23 %
+Groovy     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
