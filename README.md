@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 21 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-TypeScript   2 hrs 49 mins   ███████████▒░░░░░░░░░░░░░   44.75 %
-Groovy       1 hr 20 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
-YAML         1 hr 8 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
-Bash         52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
-SQL          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+TypeScript     4 hrs 26 mins   █████████████▒░░░░░░░░░░░   53.06 %
+Groovy         1 hr 47 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
+YAML           1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+Bash           52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+SQL            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
