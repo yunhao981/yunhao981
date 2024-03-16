@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2024 - To: 14 March 2024
+From: 08 March 2024 - To: 15 March 2024
 
-Java              8 hrs 11 mins   █████████▒░░░░░░░░░░░░░░░   36.69 %
-Python            5 hrs 35 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
-Java Properties   1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-SQL               56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Groovy            49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Java              7 hrs 4 mins    █████████▒░░░░░░░░░░░░░░░   37.19 %
+Python            4 hrs 57 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.07 %
+YAML              1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+JavaScript        1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+SQL               56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
 
 <!--END_SECTION:waka-->
