@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 March 2024 - To: 23 March 2024
+From: 17 March 2024 - To: 24 March 2024
 
 YAML              3 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
 Java Properties   1 hr 58 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
