@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2024 - To: 25 March 2024
+From: 19 March 2024 - To: 26 March 2024
 
-YAML              2 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
-Java Properties   1 hr 58 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-Java              1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-Bash              1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-Properties        43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Java              3 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
+Java Properties   2 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
+Bash              1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+YAML              1 hr 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+Groovy            1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
 ```
 
 <!--END_SECTION:waka-->
