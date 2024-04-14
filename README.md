@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2024 - To: 12 April 2024
+From: 06 April 2024 - To: 13 April 2024
 
 XML               1 hr 18 mins    ███████▓░░░░░░░░░░░░░░░░░   30.30 %
 TypeScript        40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
