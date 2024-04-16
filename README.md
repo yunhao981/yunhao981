@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 08 April 2024 - To: 15 April 2024
 
-XML               1 hr 18 mins    ███████▓░░░░░░░░░░░░░░░░░   30.30 %
-TypeScript        40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
-Shell Script      36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
-INI               19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Bash              16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+XML               1 hr 18 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.85 %
+Java              45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+Shell Script      36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+TypeScript        35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Java Properties   29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
 ```
 
 <!--END_SECTION:waka-->
