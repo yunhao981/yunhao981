@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2024 - To: 24 April 2024
+From: 18 April 2024 - To: 25 April 2024
 
-TypeScript        3 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
-XML               2 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-Bash              2 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-Shell Script      2 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-Docker            2 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+TypeScript        5 hrs 37 mins   ███████▓░░░░░░░░░░░░░░░░░   30.75 %
+XML               3 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   19.49 %
+Bash              2 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+Shell Script      1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+Docker            1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
 ```
 
 <!--END_SECTION:waka-->
