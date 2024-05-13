@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2024 - To: 11 May 2024
+From: 05 May 2024 - To: 12 May 2024
 
 Bash              2 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   20.48 %
 Groovy            2 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
