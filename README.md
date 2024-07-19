@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2024 - To: 17 July 2024
+From: 11 July 2024 - To: 18 July 2024
 
-TypeScript        3 hrs 45 mins   █████████░░░░░░░░░░░░░░░░   36.40 %
-Groovy            1 hr 40 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
-Java              56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-Bash              54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-JavaScript        37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+TypeScript        5 hrs 50 mins   ███████████▓░░░░░░░░░░░░░   47.19 %
+textmate          1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+Java              1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+Bash              48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Groovy            45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
 ```
 
 <!--END_SECTION:waka-->
