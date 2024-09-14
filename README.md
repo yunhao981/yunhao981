@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2024 - To: 12 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-TypeScript     3 hrs 3 mins    ██████████████░░░░░░░░░░░   56.26 %
-YAML           1 hr 16 mins    ██████░░░░░░░░░░░░░░░░░░░   23.61 %
-Bash           43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-Groovy         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Other          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TypeScript     2 hrs 32 mins   ██████████████░░░░░░░░░░░   55.43 %
+YAML           1 hr 16 mins    ███████░░░░░░░░░░░░░░░░░░   27.91 %
+Bash           43 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Other          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
