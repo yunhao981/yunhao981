@@ -6,13 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2024 - To: 02 October 2024
+From: 26 September 2024 - To: 03 October 2024
 
-TypeScript   3 hrs 26 mins   ██████████████▓░░░░░░░░░░   58.10 %
-Groovy       1 hr 41 mins    ███████░░░░░░░░░░░░░░░░░░   28.41 %
-Bash         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Other        19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-CSS          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+TypeScript   2 hrs 13 mins   █████████████████████▒░░░   84.88 %
+Groovy       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+CSS          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
