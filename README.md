@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2024 - To: 07 November 2024
+From: 01 November 2024 - To: 08 November 2024
 
-YAML              1 hr 24 mins    ██████████░░░░░░░░░░░░░░░   39.96 %
-Groovy            36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
-Bash              35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
-TypeScript        17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-textmate          14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+YAML              2 hrs 13 mins   ██████████▒░░░░░░░░░░░░░░   40.76 %
+Groovy            1 hr 32 mins    ███████░░░░░░░░░░░░░░░░░░   28.13 %
+Bash              35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+TypeScript        17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+textmate          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 ```
 
 <!--END_SECTION:waka-->
