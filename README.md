@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2024 - To: 10 November 2024
+From: 04 November 2024 - To: 11 November 2024
 
 YAML              2 hrs 13 mins   ██████████▒░░░░░░░░░░░░░░   40.76 %
 Groovy            1 hr 32 mins    ███████░░░░░░░░░░░░░░░░░░   28.13 %
