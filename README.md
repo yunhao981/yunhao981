@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2024 - To: 17 December 2024
+From: 11 December 2024 - To: 18 December 2024
 
-TypeScript     2 hrs 19 mins   ██████████▒░░░░░░░░░░░░░░   41.74 %
-YAML           1 hr 23 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
-Java           1 hr 2 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
-XML            13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Groovy         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+TypeScript       3 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   35.33 %
+Java             3 hrs 12 mins   ████████▒░░░░░░░░░░░░░░░░   33.48 %
+YAML             1 hr 49 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
+Bash             22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Markdown         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
