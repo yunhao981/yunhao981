@@ -6,13 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2024 - To: 30 December 2024
+From: 24 December 2024 - To: 31 December 2024
 
-YAML           1 hr 36 mins    ████████████████▒░░░░░░░░   64.98 %
-Bash           48 mins         ████████▒░░░░░░░░░░░░░░░░   32.77 %
-Groovy         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
