@@ -6,9 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2024 - To: 01 January 2025
+From: 26 December 2024 - To: 02 January 2025
 
-No activity tracked
+TypeScript       1 hr 59 mins    █████████████████▓░░░░░░░   71.29 %
+Groovy           18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+YAML             14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Java             14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Shell Script     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
