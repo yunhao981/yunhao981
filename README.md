@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 26 March 2025
+From: 20 March 2025 - To: 27 March 2025
 
-Java           4 hrs 3 mins    █████████░░░░░░░░░░░░░░░░   35.88 %
-TypeScript     3 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.64 %
-YAML           1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
-Groovy         1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-SQL            37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Java              6 hrs 13 mins   ████████████▒░░░░░░░░░░░░   49.08 %
+TypeScript        2 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+Groovy            1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+YAML              1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+SQL               46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->
