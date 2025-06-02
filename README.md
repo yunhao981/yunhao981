@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
 TypeScript     2 hrs 48 mins   █████████▒░░░░░░░░░░░░░░░   37.32 %
 YAML           2 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   35.25 %
