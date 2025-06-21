@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2025 - To: 19 June 2025
+From: 13 June 2025 - To: 20 June 2025
 
-YAML           2 hrs 23 mins   ███████▒░░░░░░░░░░░░░░░░░   29.14 %
-Python         2 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
-TypeScript     2 hrs 10 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
-Bash           23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Groovy         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+TypeScript     3 hrs 27 mins   ██████████░░░░░░░░░░░░░░░   40.04 %
+YAML           2 hrs 24 mins   ███████░░░░░░░░░░░░░░░░░░   27.79 %
+Python         1 hr 54 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+Markdown       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Java           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
