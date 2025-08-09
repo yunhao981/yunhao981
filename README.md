@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2025 - To: 07 August 2025
+From: 01 August 2025 - To: 08 August 2025
 
-Java              5 hrs 8 mins    ███████████░░░░░░░░░░░░░░   43.89 %
-Groovy            2 hrs 57 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
-TypeScript        2 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-Bash              46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-YAML              24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Java              5 hrs 36 mins   ██████████▓░░░░░░░░░░░░░░   43.27 %
+TypeScript        3 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   28.05 %
+Groovy            2 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
+Bash              30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Dockerfile        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
