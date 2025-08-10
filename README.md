@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2025 - To: 08 August 2025
+From: 02 August 2025 - To: 09 August 2025
 
 Java              5 hrs 36 mins   ██████████▓░░░░░░░░░░░░░░   43.27 %
 TypeScript        3 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   28.05 %
