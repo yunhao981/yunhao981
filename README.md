@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2025 - To: 08 September 2025
+From: 02 September 2025 - To: 09 September 2025
 
-YAML           1 hr 41 mins    █████████▒░░░░░░░░░░░░░░░   36.76 %
-SQL            1 hr 15 mins    ███████░░░░░░░░░░░░░░░░░░   27.54 %
-Python         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-TypeScript     24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-Bash           21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+YAML           1 hr 26 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.06 %
+Docker         1 hr 18 mins    ██████░░░░░░░░░░░░░░░░░░░   23.65 %
+SQL            1 hr 15 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
+Python         37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+Bash           21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
 ```
 
 <!--END_SECTION:waka-->
