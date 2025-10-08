@@ -6,13 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2025 - To: 06 October 2025
+From: 30 September 2025 - To: 07 October 2025
 
-YAML         1 hr 12 mins    ████████████▓░░░░░░░░░░░░   50.19 %
-SQL          22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-Bash         20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-TypeScript   15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-Java         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
