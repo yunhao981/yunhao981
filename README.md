@@ -6,9 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-No activity tracked
+XML            1 hr 19 mins    █████████████████▒░░░░░░░   69.78 %
+TypeScript     24 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
+Java           9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Groovy         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Image (svg)    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
