@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2025 - To: 13 October 2025
+From: 07 October 2025 - To: 14 October 2025
 
-TypeScript     1 hr 30 mins    ██████████▓░░░░░░░░░░░░░░   42.07 %
-XML            1 hr 19 mins    █████████▒░░░░░░░░░░░░░░░   37.01 %
-Java           44 mins         █████░░░░░░░░░░░░░░░░░░░░   20.62 %
-Groovy         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Image (svg)    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript       1 hr 31 mins    ████████▓░░░░░░░░░░░░░░░░   34.24 %
+XML              1 hr 20 mins    ███████▓░░░░░░░░░░░░░░░░░   30.12 %
+Java             1 hr 8 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
+YAML             13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Bash             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
