@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2025 - To: 26 November 2025
+From: 20 November 2025 - To: 27 November 2025
 
-YAML              7 hrs 44 mins   █████████████░░░░░░░░░░░░   51.74 %
-Bash              4 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.11 %
-Groovy            1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Shell Script      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Java Properties   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+YAML              6 hrs 22 mins   ██████████▒░░░░░░░░░░░░░░   41.38 %
+Bash              4 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   28.59 %
+Groovy            1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+Shell Script      1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+TypeScript        48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 ```
 
 <!--END_SECTION:waka-->
