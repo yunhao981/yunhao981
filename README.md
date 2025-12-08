@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2025 - To: 06 December 2025
+From: 30 November 2025 - To: 07 December 2025
 
 Bash              1 hr 32 mins    █████░░░░░░░░░░░░░░░░░░░░   20.31 %
 Java              1 hr 27 mins    █████░░░░░░░░░░░░░░░░░░░░   19.37 %
