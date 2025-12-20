@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2025 - To: 18 December 2025
+From: 12 December 2025 - To: 19 December 2025
 
-TypeScript        3 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   33.32 %
-XML               2 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
-Java              48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-YAML              41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Docker            33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+XML               2 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+Groovy            1 hr 59 mins    █████░░░░░░░░░░░░░░░░░░░░   20.11 %
+TypeScript        1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+YAML              45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Bash              44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
 ```
 
 <!--END_SECTION:waka-->
