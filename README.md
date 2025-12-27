@@ -6,13 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2025 - To: 25 December 2025
+From: 19 December 2025 - To: 26 December 2025
 
-Groovy       4 hrs 12 mins   ████████████████████▓░░░░   82.42 %
-Bash         28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-XML          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-YAML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Text         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Groovy   2 hrs 39 mins   ████████████████████████▒   97.15 %
+XML      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
