@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-Groovy       4 hrs 24 mins   █████████████████████▓░░░   86.91 %
-YAML         30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-Java         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Groovy       4 hrs 26 mins   ████████████████████▓░░░░   82.65 %
+YAML         46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
+Java         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
