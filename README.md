@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
 Java              5 hrs 16 mins   ████████▒░░░░░░░░░░░░░░░░   33.35 %
 YAML              3 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
