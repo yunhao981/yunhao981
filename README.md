@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2026 - To: 03 February 2026
+From: 28 January 2026 - To: 04 February 2026
 
-TypeScript     2 hrs 46 mins   ████████▓░░░░░░░░░░░░░░░░   34.84 %
-Groovy         1 hr 37 mins    █████░░░░░░░░░░░░░░░░░░░░   20.49 %
-Docker         1 hr 19 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
-Bash           1 hr 10 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-YAML           50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+Bash             1 hr 59 mins    ████████▒░░░░░░░░░░░░░░░░   32.87 %
+Docker           1 hr 19 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
+TypeScript       59 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
+YAML             50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Groovy           41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
 ```
 
 <!--END_SECTION:waka-->
