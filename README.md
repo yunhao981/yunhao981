@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2026 - To: 18 February 2026
+From: 12 February 2026 - To: 19 February 2026
 
-Bash           3 hrs 49 mins         ███████████████▓░░░░░░░░░   62.79 %
-Other          51 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Groovy         50 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
-XML            10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Markdown       9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Bash         1 hr 29 mins          ████████████████▒░░░░░░░░   65.33 %
+Groovy       41 mins               ███████▓░░░░░░░░░░░░░░░░░   30.04 %
+Docker       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Other        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Markdown     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
