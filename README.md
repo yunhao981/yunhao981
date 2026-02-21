@@ -6,13 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Bash         1 hr 29 mins          ████████████████▒░░░░░░░░   65.33 %
-Groovy       41 mins               ███████▓░░░░░░░░░░░░░░░░░   30.04 %
-Docker       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Other        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Markdown     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
