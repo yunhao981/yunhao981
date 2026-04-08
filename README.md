@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2026 - To: 06 April 2026
+From: 31 March 2026 - To: 07 April 2026
 
-YAML              2 hrs 59 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
-Bash              2 hrs 50 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
-Markdown          1 hr 43 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-TypeScript        1 hr 8 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Groovy            31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Bash             3 hrs 9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
+YAML             3 hrs 6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
+Groovy           1 hr 52 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+Markdown         1 hr 43 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+XML              28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->
