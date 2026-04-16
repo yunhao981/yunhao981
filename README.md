@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2026 - To: 14 April 2026
+From: 08 April 2026 - To: 15 April 2026
 
-TypeScript   2 hrs 16 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
-Groovy       2 hrs 1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
-YAML         1 hr 15 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
-Other        1 hr 7 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
-XML          33 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Groovy         1 hr 52 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
+Java           1 hr 41 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+Other          1 hr 13 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+TypeScript     1 hr 13 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+YAML           59 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
 ```
 
 <!--END_SECTION:waka-->
