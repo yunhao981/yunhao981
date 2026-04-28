@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2026 - To: 26 April 2026
+From: 20 April 2026 - To: 27 April 2026
 
-Java             9 hrs 14 mins         ██████████████▒░░░░░░░░░░   57.13 %
-Other            3 hrs 45 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
-Markdown         1 hr 4 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Java             9 hrs 21 mins         ██████████████▒░░░░░░░░░░   57.99 %
+Other            3 hrs 45 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
+Markdown         1 hr 2 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
 TypeScript       39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 YAML             36 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
