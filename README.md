@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2026 - To: 24 September 2026
+From: 18 September 2026 - To: 25 September 2026
 
-Markdown     1 hr 49 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
-YAML         1 hr 13 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
-Other        56 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-Docker       49 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
-Bash         48 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Docker       56 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
+YAML         54 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
+Markdown     51 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
+XML          41 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
+Groovy       31 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
 ```
 
 <!--END_SECTION:waka-->
