@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2026 - To: 14 October 2026
+From: 08 October 2026 - To: 15 October 2026
 
-Python            2 hrs 26 mins         ███████░░░░░░░░░░░░░░░░░░   28.57 %
-XML               1 hr 54 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
-Other             1 hr 45 mins          █████░░░░░░░░░░░░░░░░░░░░   20.48 %
-Bash              1 hr 16 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Groovy            36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+XML               2 hrs 27 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
+Python            2 hrs 26 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.87 %
+Other             1 hr 45 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+Groovy            1 hr 7 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+YAML              1 hr 6 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
 ```
 
 <!--END_SECTION:waka-->
